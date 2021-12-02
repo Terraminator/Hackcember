@@ -10,6 +10,7 @@
                                                                                                                                                                                                                 
 </pre>
 My Solutions for the Hackcember by Algorithmen Verstehen(https://www.youtube.com/c/Algorithmenverstehen)
+The Challenges can be found here: https://www.floriandalwigk.de/
   
 ### Ascii Art  
 The Ascii Art is made with: https://patorjk.com/software/taag/
